@@ -67,7 +67,7 @@ background: #4C555C;
 
 img
 {
-  width:300px;
+  width:100%;
   height:auto;
   padding:5px;    
 }
@@ -98,7 +98,7 @@ box-shadow: 0 5px 5px rgba(223, 120, 8, 1);
   color: #fff;
   font-family: tahoma;
   font-size: 13px;
-  max-width:310px;
+  max-width: 200px;
   background-color:rgba(161, 180, 196, 1);
   margin-top:10px;
   border-radius:20px;

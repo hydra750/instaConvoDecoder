@@ -57,7 +57,7 @@ body {
 </head>
 <body>
 
-
+<a href="settings.php">settings</a>
 <ul id="chat_view">
 <p>Username: <b><?=$cjson['username']; ?></b></p>
 <p>Chats: <b><?=$chat_id; ?></b></p>
