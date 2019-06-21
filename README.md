@@ -13,6 +13,6 @@ I made this tool since i couldn't find any official instagram decoder for their 
 
 I also used this existing open source project(https://github.com/firmanjml/IGDM2Convo), of which i made improvements of my own.<br/>
 --Added a feature to select the chats from the main page<br/>
---Changed code strucuture, made it easy to change settings using a JSON file (settings.json)<br/>
+--Changed code strucuture, made it easy to change settings using a JSON file(settings.json) or even better a GUI<br/>
 --Made the webApp responsive to mobile devices<br/>
 --Design changes<br/>
