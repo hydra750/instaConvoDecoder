@@ -4,7 +4,7 @@ Decode instgram messages from the instagram dump tool.
 
 I made this tool since i couldn't find any official instagram decoder for their data dump.
 
-##How to use:
+## How to use:
 
 1. Download your instagram data (https://help.instagram.com/181231772500920)
 2. Download this tool and set it up in your PHP environment, and paste this tool in the htdocs (web folder)
